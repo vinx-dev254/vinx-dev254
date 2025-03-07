@@ -42,9 +42,9 @@ I'm a passionate **Front-End Developer** with expertise in **responsive web desi
 ## 📬 Let's Connect  
 📩 **Email:** [vinx.dev254@gmail.com](mailto:vinx.dev254@gmail.com)  
 🌐 **Portfolio:** [Coming Soon]  
-📷 **Instagram:** [@vinx_codes](https://instagram.com/@vinx_codes)  
-💼 **LinkedIn:** [www.linkedin.com/in/nelvin-vinx](#)  
-💻 **Twitter/X:** [@vinx_codes](#)  
+📷 **Instagram:** [@vinx_codes](https://instagram.com/@vinx_codes/)  
+💼 **LinkedIn:** [nelvin-vinx](www.linkedin.com/in/nelvin-vinx)  
+💻 **Twitter/X:** [@vinx_codes](@vinx_codes)  
 
 ---
 
