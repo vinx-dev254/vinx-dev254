@@ -24,11 +24,10 @@ I'm a passionate **Front-End Developer** with expertise in **responsive web desi
 ---
 
 ## 🏆 Featured Projects  
-🔹 [**VinX Cocktails & Mixology**](#) – A cocktail catering website.  
+🔹 [**VinX Cocktails & Mixology**]() – A cocktail catering website.  
 🔹 [**Fitness Website**](#) – A fitness coaching platform.  
-🔹 [**Booking Website**](#) – A user-friendly booking system.  
-🔹 [**Graphic Design Agency Website**](#) – A clean, modern portfolio for designers.  
-
+🔹 [**Web Development Webinar Project**](#) – A user-friendly landing page.  
+🔹 [**Graphic Design Agency Website**](#) – Coming soon
 🔗 **View more on my GitHub Repositories!**  
 
 ---
@@ -42,9 +41,9 @@ I'm a passionate **Front-End Developer** with expertise in **responsive web desi
 ## 📬 Let's Connect  
 📩 **Email:** [vinx.dev254@gmail.com](mailto:vinx.dev254@gmail.com)  
 🌐 **Portfolio:** [Coming Soon]  
-📷 **Instagram:** [@vinx_codes](https://instagram.com/@vinx_codes/)  
-💼 **LinkedIn:** [nelvin-vinx](www.linkedin.com/in/nelvin-vinx)  
-💻 **Twitter/X:** [@vinx_codes](@vinx_codes)  
+📷 **Instagram:** [@vinx_codes](https://instagram.com/@vinx_codes)  
+💼 **LinkedIn:** [Nelvin on Linked In](www.linkedin.com/in/nelvin-codes/)  
+💻 **Twitter/X:** [@vinx_codes](https://twitter.com/vinx_codes) 
 
 ---
 
