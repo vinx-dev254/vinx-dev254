@@ -25,7 +25,7 @@ I'm a passionate **Front-End Developer** with expertise in **responsive web desi
 
 ## 🏆 Featured Projects  
 🔹 [**VinX Cocktails & Mixology**](https://vinx-dev254.github.io/vinx.cocktails/) – A cocktail catering website.  
-🔹 [**Fitness Website**](#) – A fitness coaching platform.  
+🔹 [**Fitness Website**](https://vinx-dev254.github.io/fitness.web/) – A fitness coaching platform.  
 🔹 [**Web Development Webinar Project**](https://vinx-dev254.github.io/webinar/) – A user-friendly landing page.  
 🔹 [**Graphic Design Agency Website**](#) – Coming soon
 🔗 **View more on my GitHub Repositories!**  
